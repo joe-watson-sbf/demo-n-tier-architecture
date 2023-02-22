@@ -1,4 +1,4 @@
-package com.joedev.demolibrary;
+package com.joedev.demo;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

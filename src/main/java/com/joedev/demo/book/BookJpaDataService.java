@@ -1,6 +1,4 @@
-package com.joedev.demolibrary.book;
-
-import org.springframework.stereotype.Repository;
+package com.joedev.demo.book;
 
 import java.util.List;
 import java.util.Optional;

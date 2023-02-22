@@ -1,4 +1,4 @@
-# Library Demo - N Tier Architecture
+# Demo - N Tier Architecture
 
 #### Implementation of a library application using N-tier architecture using Spring Boot with Java:
 

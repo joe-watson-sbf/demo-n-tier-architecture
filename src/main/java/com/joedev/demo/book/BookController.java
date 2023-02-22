@@ -1,4 +1,4 @@
-package com.joedev.demolibrary.book;
+package com.joedev.demo.book;
 
 import org.springframework.web.bind.annotation.*;
 

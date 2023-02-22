@@ -1,4 +1,4 @@
-package com.joedev.demolibrary.book;
+package com.joedev.demo.book;
 
 import java.util.List;
 import java.util.Optional;
